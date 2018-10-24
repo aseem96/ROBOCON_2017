@@ -1,5 +1,5 @@
 # ROBOCON_2017
-Codes in Arduino IDE for theme "The Landing Disk"
+Codes in Arduino IDE for theme "The Landing Disk".
 
 These are the codes that Team Robocon Cummins, Pune used for Robocon 2017. Our attempt was to divide the tasks, easier debugging 
 and multiprocessing in Arduino atmega 2560, also known as Arduino Mega.
